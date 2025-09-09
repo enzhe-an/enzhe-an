@@ -21,8 +21,8 @@
 
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
-|[Тестирование механики оплаты услуг на сайте](https://github.com/enzhe-an/ab_project)|Формирование гипотез, проведение А/B теста и статистической значимости изменений, определение метрик при изменении механики оплаты.|**Pandas** **Numpy** **Scipy** **Seaborn** **Matplotlib**|
-|[Проекты SQL](https://github.com/enzhe-an/sql_project)|Решение SQL задач.|**Redash** **SQL** **PostgreSQL**|
+|[Тестирование механики оплаты услуг на сайте](https://github.com/enzhe-an/enzhe-an/tree/ab_project)|Формирование гипотез, проведение А/B теста и статистической значимости изменений, определение метрик при изменении механики оплаты.|**Pandas** **Numpy** **Scipy** **Seaborn** **Matplotlib**|
+|[Проекты SQL](https://github.com/enzhe-an/enzhe-an/tree/main/sql_project)|Решение SQL задач.|**Redash** **SQL** **PostgreSQL**|
 
 <!--
 **enzhe-an/enzhe-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
